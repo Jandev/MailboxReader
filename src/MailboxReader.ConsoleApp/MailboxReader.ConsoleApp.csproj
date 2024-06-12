@@ -16,7 +16,7 @@
     <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="3.1.5" />
     <PackageReference Include="Microsoft.Extensions.Options" Version="3.1.5" />
     <PackageReference Include="Microsoft.Graph" Version="3.8.0" />
-    <PackageReference Include="Microsoft.Identity.Client" Version="4.15.0" />
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.61.3" />
   </ItemGroup>
   <ItemGroup>
     <None Update="appsettings.json">
